@@ -14,9 +14,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I build **secure, scalable Full-Stack web applications** using the MERN stack
-- 🔐 Specialized in **JWT Authentication**, HTTP-only Cookies & REST API design
-- 🌱 Currently exploring **TypeScript** and **Redis**
+- 🔭 I build **Full-Stack web applications** using the MERN stack
+- 💻 Focused on **Frontend Development** with React — diving into **Backend** with Node.js & Express
+- 🌱 Currently exploring **TypeScript**, **Node.js**, **Express.js & MongoDB**, **React Native** & **Generative AI**
 - ⚡ I love building things from scratch — from backend APIs to polished UIs
 - 📍 Based in **Gujarat, India**
 
