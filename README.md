@@ -15,9 +15,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I build **Full-Stack web applications** using the MERN stack
-- 💻 Focused on **Frontend Development** with React — diving into **Backend** with Node.js & Express
+- 💻 Focused on **Frontend Development** with React diving into **Backend** with Node.js & Express
 - 🌱 Currently exploring **TypeScript**, **Node.js**, **Express.js & MongoDB**, **React Native** & **Generative AI**
-- ⚡ I love building things from scratch — from backend APIs to polished UIs
+- ⚡ I love building things from scratch  from backend APIs to polished UIs
 - 📍 Based in **Gujarat, India**
 
 ---
